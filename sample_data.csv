@@ -1,0 +1,740 @@
+Bill_No,F_TASTE,F_PRESENT,F_TEMPERA,S_QUALITY,S_COURTESY,S_PROMPTNE,A_REMARKS,COUNTRY,TABLE_NO,SALE,excellent,worse,awesome,good
+1,1,1,2,1,1,1,Keep up the Quality,India,45,13549,FALSE,FALSE,FALSE,FALSE
+2,1,1,1,1,1,1,Excellent Food,India,27,4481,TRUE,FALSE,FALSE,FALSE
+3,1,1,2,1,1,1,Have a Low Calorie Menu.,India,4,9882,FALSE,FALSE,FALSE,FALSE
+4,1,1,1,1,1,1,Nice Food,India,10,3332,FALSE,FALSE,FALSE,FALSE
+5,1,1,1,1,1,1,All Are Best & Smiling's Food Is Excellent & Everything Is Feel Like Homely,India,18,11445,TRUE,FALSE,FALSE,FALSE
+6,1,1,1,1,1,2,No,India,4,15155,FALSE,FALSE,FALSE,FALSE
+7,1,1,1,1,1,1,Excellent Food,India,45,4403,TRUE,FALSE,FALSE,FALSE
+8,1,1,1,1,1,1,Great Experience,India,44,10424,FALSE,FALSE,FALSE,FALSE
+9,1,1,1,1,1,1,Excellent Food And Very Good Overall Experience,India,41,9230,TRUE,FALSE,FALSE,TRUE
+10,1,1,1,1,1,1,Excellent,India,26,12779,TRUE,FALSE,FALSE,FALSE
+11,1,1,2,1,1,2,Keep Up Good Work,India,24,11252,FALSE,FALSE,FALSE,TRUE
+12,1,1,1,2,1,1,Sukhi Dal Was Not Good Too Spicy,India,44,2494,FALSE,FALSE,FALSE,TRUE
+13,1,1,1,1,1,1,None,India,39,16092,FALSE,FALSE,FALSE,FALSE
+14,1,1,1,1,1,1,Food Was Very Good Service Was Element But Price Should Be More Reasonable,India,34,4936,FALSE,FALSE,FALSE,TRUE
+15,1,1,1,1,1,1,Awesome Food Numerous Varieties Of Food Chandan Who Served Us Was Very Polite And Helped  Us Select The Best Dish,India,15,16098,FALSE,FALSE,TRUE,FALSE
+16,1,1,1,1,1,1,Good Experience,India,2,11778,FALSE,FALSE,FALSE,TRUE
+17,1,1,1,1,1,1,Pause Don't Seem Under Chicken Again Thank You,India,37,15227,FALSE,FALSE,FALSE,FALSE
+18,1,1,1,1,1,1,Sahi Coffee And The Best Pudding Had In ,London,24,2736,FALSE,FALSE,FALSE,FALSE
+19,1,1,1,1,1,1,The Service Was Stupendous And Surpassed By The Food Thank You For A Lovely Everything,India,15,5907,FALSE,FALSE,FALSE,FALSE
+20,1,1,3,1,1,1,Good,India,45,10015,FALSE,FALSE,FALSE,TRUE
+21,2,2,2,2,1,2,I Think The Chef Needs To Recheck The Difference Between Biryani & Plow,India,14,1399,FALSE,FALSE,FALSE,FALSE
+22,1,1,2,1,1,2,Perpetuity Keep It Up,India,23,11998,FALSE,FALSE,FALSE,FALSE
+23,1,1,1,1,1,1,No Comments,India,2,18243,FALSE,FALSE,FALSE,FALSE
+24,2,1,1,1,1,1,Food Was Very Good And The Erica Was Excellent,India,18,13786,TRUE,FALSE,FALSE,TRUE
+25,1,1,1,2,2,2,Really Good ,India,41,9533,FALSE,FALSE,FALSE,TRUE
+26,1,1,1,1,1,1,Amazing Experience As Always,India,32,18152,FALSE,FALSE,FALSE,FALSE
+27,3,3,3,1,1,1,All Things Are Nice,India,9,14423,FALSE,FALSE,FALSE,FALSE
+28,1,1,1,1,1,1,Keep It Up,India,50,5834,FALSE,FALSE,FALSE,FALSE
+29,1,1,2,1,1,2,It Is Awesome Atmosphere Is Wow,India,24,8756,FALSE,FALSE,TRUE,FALSE
+30,1,1,2,1,1,2,Ac To Be Low Server,India,9,19482,FALSE,FALSE,FALSE,FALSE
+31,1,1,2,1,1,1,Food Was Excellent To Come Again,India,41,15773,TRUE,FALSE,FALSE,FALSE
+32,1,1,1,1,1,1,Multan Was Very Good Is And Behavior,India,6,7654,FALSE,FALSE,FALSE,TRUE
+33,1,1,1,1,1,1,Very Good,India,19,4847,FALSE,FALSE,FALSE,TRUE
+34,1,1,1,1,1,1,Observed Changes Of Mat And Fazes Looking Good,India,41,13479,FALSE,FALSE,FALSE,TRUE
+35,1,1,1,1,1,1,Good Food Good Ambience,India,4,7988,FALSE,FALSE,FALSE,TRUE
+36,1,1,1,1,1,1,Good  And Great Service Place Keep Up The Great Efforts,India,41,146,FALSE,FALSE,FALSE,TRUE
+37,1,1,1,1,1,1,Billing Was Late,India,35,18256,FALSE,FALSE,FALSE,FALSE
+38,1,1,1,1,1,1,More Than Satisfied With The Quality And Taste Of The Food The Shakes Were Highly Disappointing,India,33,5702,FALSE,FALSE,FALSE,FALSE
+39,1,2,2,1,1,2,Good Keep It Up Keen Ambience As It Is Should Seined Ancient Period,India,16,2093,FALSE,FALSE,FALSE,TRUE
+40,1,1,1,1,1,1,Awesome,India,49,7834,FALSE,FALSE,TRUE,FALSE
+41,2,2,2,1,1,2,No,India,30,15503,FALSE,FALSE,FALSE,FALSE
+42,1,1,1,1,1,1,Relish Food,India,28,601,FALSE,FALSE,FALSE,FALSE
+43,1,1,1,1,1,1,Food Was Really Good Never Have\D This Acharya Flavor Meat Taste Like This Before,India,33,13853,FALSE,FALSE,FALSE,TRUE
+44,1,1,1,1,1,1,Add More Variety An Your Menu,India,38,8196,FALSE,FALSE,FALSE,FALSE
+45,1,1,1,1,1,1,Amazing Ambience Food ,India,43,4246,FALSE,FALSE,FALSE,FALSE
+46,1,1,1,1,1,2,Its Good,India,33,11689,FALSE,FALSE,FALSE,TRUE
+47,1,1,2,1,1,1,Kerr Up The Good Work,India,6,10676,FALSE,FALSE,FALSE,TRUE
+48,1,1,1,1,1,1,Excellent Food Enjoying It,India,25,8430,TRUE,FALSE,FALSE,FALSE
+49,1,1,2,1,1,1,Lovely Meal Lovely People Happy Custom ore,India,42,10835,FALSE,FALSE,FALSE,FALSE
+50,1,1,1,1,1,1,Reminded Me Of My Childhood,India,31,12913,FALSE,FALSE,FALSE,FALSE
+51,1,1,1,1,1,1,Keep It Up,India,33,11852,FALSE,FALSE,FALSE,FALSE
+52,1,1,1,1,1,1,Keep It Up,India,25,9334,FALSE,FALSE,FALSE,FALSE
+53,1,1,1,1,1,1,The House Is Not Wi Fi It Should Be There,India,21,2179,FALSE,FALSE,FALSE,FALSE
+54,1,1,1,1,1,1,Excellent Job Done In The All Aspects,India,10,1070,TRUE,FALSE,FALSE,FALSE
+55,1,1,1,1,1,1,Very Good Ambience,India,34,15907,FALSE,FALSE,FALSE,TRUE
+56,1,1,1,1,1,1,1St Floor Blown Ac Should Be More Powerful In Delhi Summer,India,49,18589,FALSE,FALSE,FALSE,FALSE
+57,1,2,1,1,1,1,Good Food,India,32,9500,FALSE,FALSE,FALSE,TRUE
+58,1,1,1,1,1,1,Amazing Enjoyed A Lot Had A Lot Of Fun And Amazing ,India,12,15014,FALSE,FALSE,FALSE,FALSE
+59,1,1,1,1,1,1,Great,India,49,13469,FALSE,FALSE,FALSE,FALSE
+60,1,1,1,1,1,1,Jet Is A Perfect Host Keep It Up ,India,39,1986,FALSE,FALSE,FALSE,FALSE
+61,1,1,1,1,1,1,Noting Please Keep It Up,India,24,5878,FALSE,FALSE,FALSE,FALSE
+62,1,1,1,1,1,1,Maher Bares,India,2,17979,FALSE,FALSE,FALSE,FALSE
+63,1,1,1,1,1,1,Good Food Good Senile Thanks,India,18,7404,FALSE,FALSE,FALSE,TRUE
+64,1,1,1,1,1,1,Excellent Cant Be Improved,India,49,617,TRUE,FALSE,FALSE,FALSE
+65,1,1,1,1,1,1,We Have Been Coming For A Viv Long Time Love It,India,35,14979,FALSE,FALSE,FALSE,FALSE
+66,3,1,1,1,1,1,Rare Gosh Taste Very Different From Usual Not As Good,India,48,2662,FALSE,FALSE,FALSE,TRUE
+67,1,2,2,2,1,1,Good Food Keep It Up,India,4,19629,FALSE,FALSE,FALSE,TRUE
+68,1,2,1,2,2,2,Amavsyoti Boruah,India,46,10922,FALSE,FALSE,FALSE,FALSE
+69,1,2,2,2,2,2,Nishchint Juneja,India,1,6256,FALSE,FALSE,FALSE,FALSE
+70,1,1,1,1,1,1,Thank You,India,29,5216,FALSE,FALSE,FALSE,FALSE
+71,2,2,2,2,2,2,Good Luck,India,39,6083,FALSE,FALSE,FALSE,TRUE
+72,1,1,1,1,1,1,All Of Yours Are Improved,India,16,16902,FALSE,FALSE,FALSE,FALSE
+73,1,1,1,1,1,1,Keep It Up With Same,India,30,3802,FALSE,FALSE,FALSE,FALSE
+74,1,2,1,1,1,2,Bas Hospitality At The Weeding Dust Staff Needs Do Be polite & Decent Super Rude Has Do Wait To 15 Min Despite Of Table Being There,India,2,1157,FALSE,FALSE,FALSE,FALSE
+75,1,1,1,1,1,1,Good Job Keep It Up,India,14,18158,FALSE,FALSE,FALSE,TRUE
+76,1,1,1,1,1,1,Excellent,India,45,13113,TRUE,FALSE,FALSE,FALSE
+77,1,2,1,1,1,1,Good Food & Good Ambience But Hit Nosy Were Attended Promptly,India,33,14461,FALSE,FALSE,FALSE,TRUE
+78,1,1,1,1,1,1,Good Food Keep It Up,India,38,15959,FALSE,FALSE,FALSE,TRUE
+79,1,1,1,1,1,2,Very Good Keep It Up,India,16,17556,FALSE,FALSE,FALSE,TRUE
+80,1,2,1,1,1,2,The Food Menu Is Difficult To Understand,India,40,7066,FALSE,FALSE,FALSE,FALSE
+81,1,1,1,1,1,1,Every Thing Is Fine,India,15,19701,FALSE,FALSE,FALSE,FALSE
+82,1,1,1,1,1,1,No Time Best In ,India,26,1344,FALSE,FALSE,FALSE,FALSE
+83,1,1,1,1,1,2,Butter Chicken Is Awesome,India,25,13010,FALSE,FALSE,TRUE,FALSE
+84,1,1,3,1,1,1,Good Food,India,27,8001,FALSE,FALSE,FALSE,TRUE
+85,1,1,1,1,1,1,An Excellent Experience As Always,India,20,5180,TRUE,FALSE,FALSE,FALSE
+86,1,1,1,1,1,1,The Food Is Good And Very Testy,India,13,7956,FALSE,FALSE,FALSE,TRUE
+87,1,1,1,1,1,1,Food I& Services Always Good,India,6,8563,FALSE,FALSE,FALSE,TRUE
+88,1,1,1,1,1,2,Awesome Good Quality Delicious Very Computable Keep The Good ,India,17,14636,FALSE,FALSE,TRUE,TRUE
+89,1,1,1,1,1,1,Change Recipe For Cheese Ball,India,45,3375,FALSE,FALSE,FALSE,FALSE
+90,1,1,3,1,1,1,Good Keep It Up,India,37,4915,FALSE,FALSE,FALSE,TRUE
+91,1,1,1,1,1,1,If Someone Come For Minute Before 1 Pm For Lunch They Should Be Immediately Entered,India,38,13037,FALSE,FALSE,FALSE,FALSE
+92,1,2,1,1,1,1,Good Keep It Up,India,11,18449,FALSE,FALSE,FALSE,TRUE
+93,1,1,1,1,1,2,Professional Staff,India,2,7513,FALSE,FALSE,FALSE,FALSE
+94,1,1,1,1,1,1,The Food Is Always Good Keep It Up,India,28,1904,FALSE,FALSE,FALSE,TRUE
+95,1,1,1,1,1,1,Good,India,42,13675,FALSE,FALSE,FALSE,TRUE
+96,1,1,1,1,1,1,Very Good,India,5,15387,FALSE,FALSE,FALSE,TRUE
+97,1,1,1,1,2,1,Gulag Zaman Size Very Good,India,43,17598,FALSE,FALSE,FALSE,TRUE
+98,2,1,1,2,2,2,Excellent Keep It Up,India,42,2305,TRUE,FALSE,FALSE,FALSE
+99,1,1,1,1,1,1,A Lovely & Worm Place To Dine Food Is Very Testy,India,47,15797,FALSE,FALSE,FALSE,FALSE
+100,1,1,2,1,1,1,Good Food Tea Blend Was Very Nice,India,36,503,FALSE,FALSE,FALSE,TRUE
+101,1,2,2,1,1,1,Good Job Keep It Up,India,1,3139,FALSE,FALSE,FALSE,TRUE
+102,2,2,2,1,1,1,A Little Too Spicy,India,4,12218,FALSE,FALSE,FALSE,FALSE
+103,1,2,3,2,1,1,Too Cold We Were Shivering,India,3,8386,FALSE,FALSE,FALSE,FALSE
+104,2,1,2,2,2,1,Sizzle Not Upton The Mark,India,47,6675,FALSE,FALSE,FALSE,FALSE
+105,1,1,1,1,1,1,Wrong Order Being Placed Twice,India,4,6416,FALSE,FALSE,FALSE,FALSE
+106,1,1,1,1,1,1,Very Courteous Staff Excellent Food,India,12,16338,TRUE,FALSE,FALSE,FALSE
+107,1,1,1,1,1,1,Everything Fine No Need To Advice,India,47,14631,FALSE,FALSE,FALSE,FALSE
+108,1,1,1,1,1,3,Food Quality Was Amazing But The Service Was Really Slow,India,32,12722,FALSE,FALSE,FALSE,FALSE
+109,1,1,1,1,1,1,I Just Love Untied Coffee House Food As  Excellent,India,43,17651,TRUE,FALSE,FALSE,FALSE
+110,2,2,1,2,2,2,Good,India,27,19278,FALSE,FALSE,FALSE,TRUE
+111,1,1,1,1,1,1,Food Is Very Good Little Over Prices Ambience Is Worth Enjoying Politely Recommended Amazing Coffee,India,2,3299,FALSE,FALSE,FALSE,TRUE
+112,1,1,2,1,1,2,Please Take Care Of Your Clint's,India,2,2250,FALSE,FALSE,FALSE,FALSE
+113,1,1,1,1,1,2,Some Verities On Snag,India,17,11964,FALSE,FALSE,FALSE,FALSE
+114,1,1,1,1,1,1,Excellent,India,14,5088,TRUE,FALSE,FALSE,FALSE
+115,1,1,1,1,1,1,Everything Was Perfect ,India,32,14569,FALSE,FALSE,FALSE,FALSE
+116,1,1,1,1,1,1,Like I Have Traveled Look In Thyme Awesome Well Done,India,48,10939,FALSE,FALSE,TRUE,FALSE
+117,1,1,1,1,1,1,Well Done Old Memories Relived,India,35,7829,FALSE,FALSE,FALSE,FALSE
+118,1,1,1,1,1,1,Nice Restaurant,India,30,233,FALSE,FALSE,FALSE,FALSE
+119,3,2,2,1,1,1,Chili Chicken Taste Not Good At All As Before,India,30,8061,FALSE,FALSE,FALSE,TRUE
+120,1,1,1,1,1,1,Good Food,India,50,4317,FALSE,FALSE,FALSE,TRUE
+121,1,1,1,1,1,2,None Liked The Food,India,21,4944,FALSE,FALSE,FALSE,FALSE
+122,1,1,2,1,2,2,The Staff Was Warm And Food Was Delicious,India,25,14898,FALSE,FALSE,FALSE,FALSE
+123,1,1,2,2,1,1,Food Was A Bit Only Ac Is Not Effective In Its Floor,India,49,10193,FALSE,FALSE,FALSE,FALSE
+124,1,1,1,1,1,1,We Love Eating Here,India,7,17913,FALSE,FALSE,FALSE,FALSE
+125,1,1,1,1,1,1,In Couse The Quantity Is Little Less,India,25,7490,FALSE,FALSE,FALSE,FALSE
+126,1,1,2,1,1,1,Great Over All,India,12,18748,FALSE,FALSE,FALSE,FALSE
+127,1,1,2,1,1,1,Overall Very Good,India,30,12232,FALSE,FALSE,FALSE,TRUE
+128,1,1,1,1,1,1,Everything Was Really Nice But The Lamb Was On The Newey Side,India,45,7727,FALSE,FALSE,FALSE,FALSE
+129,1,1,1,1,1,1,Keep It Up,India,33,6204,FALSE,FALSE,FALSE,FALSE
+130,1,2,1,1,1,1,Great Service Kapil,India,5,15717,FALSE,FALSE,FALSE,FALSE
+131,2,2,3,2,2,2,Noodles Were Too Thick,India,26,15036,FALSE,FALSE,FALSE,FALSE
+132,1,1,1,1,1,1,Music Should Not Be Dal Loud,India,6,713,FALSE,FALSE,FALSE,FALSE
+133,1,1,1,1,1,1,Excelled Service,India,9,578,FALSE,FALSE,FALSE,FALSE
+134,1,1,1,1,1,1,Keep It Up,India,15,3026,FALSE,FALSE,FALSE,FALSE
+135,2,2,2,2,2,2,The Fatuous Salad Was Much Below Expectation The Lettuce Was Not Fresh Needs Improvement,India,21,5190,FALSE,FALSE,FALSE,FALSE
+136,1,1,1,1,1,1,As Always Brilliant,India,50,17575,FALSE,FALSE,FALSE,FALSE
+137,1,1,2,2,2,3,No,India,15,8847,FALSE,FALSE,FALSE,FALSE
+138,1,1,2,1,1,2,Everything Is Good As Compose To Last Year,India,34,13975,FALSE,FALSE,FALSE,TRUE
+139,1,1,1,1,1,2,Service Is Very Slow,India,27,12084,FALSE,FALSE,FALSE,FALSE
+140,1,1,3,1,1,1,All Was Too High Rest Everything Was Good,India,15,1005,FALSE,FALSE,FALSE,TRUE
+141,1,1,1,1,1,1,Perfect Place,India,36,19816,FALSE,FALSE,FALSE,FALSE
+142,2,1,1,1,1,2,Veg Sizzlers Need Tube Improved Cheese Was Very Heavy,India,39,17815,FALSE,FALSE,FALSE,FALSE
+143,2,1,1,1,1,1,Chili Hakka Noodles Was Thick Served Cold Not Already Spoke To Chef,India,49,4392,FALSE,FALSE,FALSE,FALSE
+144,1,1,1,1,1,1,He Must Be Served It With Drink,India,16,15310,FALSE,FALSE,FALSE,FALSE
+145,1,2,3,1,1,1,Great Hospitality,India,47,11834,FALSE,FALSE,FALSE,FALSE
+146,1,1,2,2,1,1,Make The Food A Bit Len Heavy,India,6,2821,FALSE,FALSE,FALSE,FALSE
+147,1,2,1,1,2,1,Ambience In Excellent Hard Formatted Prompted Again,India,27,18797,TRUE,FALSE,FALSE,FALSE
+148,1,1,1,1,1,1,Yes Took Good,India,29,15140,FALSE,FALSE,FALSE,TRUE
+149,2,1,1,1,1,1,Please Improve The Preparation Of Cheese Balls They Have A Smell Of Egg Which Was Not Though Case,India,22,9334,FALSE,FALSE,FALSE,FALSE
+150,1,1,1,1,1,1,Good ,India,25,10029,FALSE,FALSE,FALSE,TRUE
+151,1,1,1,1,1,1,Too Good Fully Satisfied,India,25,19450,FALSE,FALSE,FALSE,TRUE
+152,3,1,1,1,1,1,The Miss Meat Bill Is Not Original The Had Liver Kindelay Based Sizzler,India,34,4868,FALSE,FALSE,FALSE,FALSE
+153,1,1,1,1,1,1,Excellent,India,1,1015,TRUE,FALSE,FALSE,FALSE
+154,1,1,1,1,1,2,Keep It Up,India,31,18729,FALSE,FALSE,FALSE,FALSE
+155,1,1,1,1,1,1,The Meringue On The Baked Alaska Was Not Done As It Should,India,22,12462,FALSE,FALSE,FALSE,FALSE
+156,1,1,1,1,1,1,Great Food Amazing Service,India,33,12161,FALSE,FALSE,FALSE,FALSE
+157,1,1,2,1,1,1,U Gees Rock Eye Luv You,India,28,7396,FALSE,FALSE,FALSE,FALSE
+158,1,1,1,1,1,1,Keep It Up U R Liming Up To Yours Famous Image,India,23,13948,FALSE,FALSE,FALSE,FALSE
+159,1,1,2,1,1,1,The Food Was Really Mood,India,25,12170,FALSE,FALSE,FALSE,FALSE
+160,1,2,2,1,1,2,The Baked Was Unplaced Quality All Was Much Better The Second Time,India,34,7184,FALSE,FALSE,FALSE,FALSE
+161,2,3,1,2,1,1,Satisfactory,India,22,9560,FALSE,FALSE,FALSE,FALSE
+162,1,2,1,1,1,1,Over All Good Food,India,8,5691,FALSE,FALSE,FALSE,TRUE
+163,1,1,1,1,1,1,I Have Been Coming Here For Over 40 Years,India,16,15579,FALSE,FALSE,FALSE,FALSE
+164,1,1,1,1,1,1,Ks Ion The Past We Have Enjoyed Every Moments,India,14,1142,FALSE,FALSE,FALSE,FALSE
+165,1,1,1,1,1,1,Quality Of Everything Is Very Good,India,30,19619,FALSE,FALSE,FALSE,TRUE
+166,1,1,1,1,1,1,Very Good Overall Service Keep It Up,India,38,192,FALSE,FALSE,FALSE,TRUE
+167,1,1,1,1,1,1,Really Enjoyed Ply Give Carpet ,India,4,10505,FALSE,FALSE,FALSE,FALSE
+168,1,2,1,1,1,1,Gulag Jarmon Ki Size Bade Hai Par Tasty Nashi Hai,India,7,13024,FALSE,FALSE,FALSE,FALSE
+169,1,1,1,1,1,1,Very Good,India,33,14106,FALSE,FALSE,FALSE,TRUE
+170,1,1,1,1,1,1,Keep Up The Good Work ,India,16,10248,FALSE,FALSE,FALSE,TRUE
+171,1,1,1,1,1,1,Keep Up The Good,India,32,1622,FALSE,FALSE,FALSE,TRUE
+172,2,1,1,1,1,1,Ok Not To Bad,India,11,16763,FALSE,FALSE,FALSE,FALSE
+173,1,1,1,1,2,1,Very Good Perhaps You Can Do Better With The Naan Bread Quality,India,8,544,FALSE,FALSE,FALSE,TRUE
+174,1,1,1,1,1,1,Music Should Be Improved,India,7,18056,FALSE,FALSE,FALSE,FALSE
+175,2,2,1,2,1,3,Please Conciliate On The Quality Taste Of Food As You Do On The Intrusions,India,33,1549,FALSE,FALSE,FALSE,FALSE
+176,1,2,1,1,1,2,Good Keep It Up,India,23,16875,FALSE,FALSE,FALSE,TRUE
+177,1,1,1,1,1,1,A Wonderful Experience Keep It Up,India,45,3821,FALSE,FALSE,FALSE,FALSE
+178,1,1,1,1,1,1,Everything Is Very Good,India,50,1633,FALSE,FALSE,FALSE,TRUE
+179,1,2,1,1,1,1,Good Work Keep It Up,India,26,17939,FALSE,FALSE,FALSE,TRUE
+180,1,1,1,1,1,1,As Usual No Complaints Food Was Great Thach For Servings,India,1,4924,FALSE,FALSE,FALSE,FALSE
+181,1,1,2,1,1,1,There Must Be A Scheme Of Rival Card For Loyal Customers Visiting You Since Last 20 Years,India,3,15634,FALSE,FALSE,FALSE,FALSE
+182,1,1,1,2,2,2,We Ordered Seth Pasta & Beschetta All Of Them Were Teste Less Stacy Inapt War Was Unmilling Veer Bad We Will Not Come Again,India,22,18162,FALSE,FALSE,FALSE,FALSE
+183,1,2,1,1,1,1,Well Taken Care ,India,5,12393,FALSE,FALSE,FALSE,FALSE
+184,1,1,1,1,1,1,Good Food,India,28,16588,FALSE,FALSE,FALSE,TRUE
+185,2,1,1,2,2,1,Gide,India,43,17092,FALSE,FALSE,FALSE,FALSE
+186,1,2,2,1,1,1,Starters Give More Choice Drinks Some Comet Nuts To Be Given,India,9,6114,FALSE,FALSE,FALSE,FALSE
+187,1,1,1,1,1,1,I'm The Must Regular Visitor ,India,41,2644,FALSE,FALSE,FALSE,FALSE
+188,1,1,1,1,1,1,Beautiful Coming Back,India,20,3604,FALSE,FALSE,FALSE,FALSE
+189,1,1,2,1,1,1,Very Good New Menu,India,37,6960,FALSE,FALSE,FALSE,TRUE
+190,1,1,1,1,1,2,Its Better If Wi Fi Is Availed,India,47,19441,FALSE,FALSE,FALSE,FALSE
+191,2,1,2,2,2,1,Good Service,India,24,16619,FALSE,FALSE,FALSE,TRUE
+192,2,2,2,1,1,1,The Dal Taka Ordered Was Hot Up To The Mark It Was Bland A Ngai Taste Of Chilies Which Was Bitter,India,39,18480,FALSE,FALSE,FALSE,FALSE
+193,1,1,1,1,1,1,We Shall Return,India,16,9295,FALSE,FALSE,FALSE,FALSE
+194,1,2,1,2,2,2,Good As Usual,India,3,10862,FALSE,FALSE,FALSE,TRUE
+195,2,1,1,1,1,1,Although The Food Was Good But The Panda Chloe Mas Not Upton The Mark As The Usual Ones,India,45,804,FALSE,FALSE,FALSE,TRUE
+196,1,1,2,1,1,1,Good Luck,India,7,13702,FALSE,FALSE,FALSE,TRUE
+197,1,1,1,1,1,1,All Good But Can Be The Best If You Want,India,32,1786,FALSE,FALSE,FALSE,TRUE
+198,1,1,1,1,1,1,Viv Good,India,11,14556,FALSE,FALSE,FALSE,TRUE
+199,1,1,1,1,1,1,Very Good Ambience Keep It Up,India,8,3761,FALSE,FALSE,FALSE,TRUE
+200,2,2,1,1,1,2,All God & Satisfied,India,50,12083,FALSE,FALSE,FALSE,FALSE
+201,1,1,1,1,1,1,Excellent,India,44,1637,TRUE,FALSE,FALSE,FALSE
+202,1,2,1,2,1,1,Mutton Was Excellent Keep Up The Good Work,India,12,14906,TRUE,FALSE,FALSE,TRUE
+203,1,1,2,1,1,1,Food Was Perfect,India,25,19941,FALSE,FALSE,FALSE,FALSE
+204,1,1,1,1,1,1,Charm Of Old Much Was Missing Nice Restaurant But Where Is The Coffee Couse,India,28,8258,FALSE,FALSE,FALSE,FALSE
+205,3,2,2,1,1,2,Got Nia Instead Butter Near Pore Quit Basic Used Timer Served,India,47,18886,FALSE,FALSE,FALSE,FALSE
+206,1,1,2,2,1,1,Very Nice Ambience And A Beautiful place Sure Great,India,18,16753,FALSE,FALSE,FALSE,FALSE
+207,2,1,1,1,1,1,Keep It Up,India,20,13549,FALSE,FALSE,FALSE,FALSE
+208,2,2,3,1,1,1,Very Nice Food Only The Noam Was A Bit Hard,India,27,5634,FALSE,FALSE,FALSE,FALSE
+209,2,2,1,1,1,1,Over All Good ,India,6,11284,FALSE,FALSE,FALSE,TRUE
+210,1,1,1,1,1,1,Very Good Food,India,47,12976,FALSE,FALSE,FALSE,TRUE
+211,2,1,1,1,1,1,Chena Chicken Was Very Disappoint Today Too Salty And Only Chilly Count Be Tasted,India,41,6240,FALSE,FALSE,FALSE,FALSE
+212,1,1,1,1,1,1,Very Nia Apiece Tasty Food,India,7,6227,FALSE,FALSE,FALSE,FALSE
+213,1,1,1,2,2,1,Only We Had An Issue With The Soup It Was Too Salty,India,3,8186,FALSE,FALSE,FALSE,FALSE
+214,1,1,1,1,1,1,Good Job,India,38,2935,FALSE,FALSE,FALSE,TRUE
+215,3,3,2,3,3,2,Poor,India,16,14358,FALSE,FALSE,FALSE,FALSE
+216,2,2,2,1,1,2,We Enjoy Coming To The Place,India,13,7089,FALSE,FALSE,FALSE,FALSE
+217,1,1,1,1,1,1,Keep Up The Good Service,India,36,16978,FALSE,FALSE,FALSE,TRUE
+218,1,1,1,1,1,2,Good Food As a Always,India,45,17489,FALSE,FALSE,FALSE,TRUE
+219,1,1,1,1,1,1,I Am Regular Here And Come Back Because Everything Is Excellent,India,12,2536,TRUE,FALSE,FALSE,FALSE
+220,1,1,1,1,1,1,Good And Excellent Food,India,13,12671,TRUE,FALSE,FALSE,TRUE
+221,1,1,1,1,2,1,Good Food Good People Keep It Up!!,India,46,4291,FALSE,FALSE,FALSE,TRUE
+222,3,3,2,2,3,2,"Food Was Not Good, She Was Saying About Chloe Is Too Salty. I All Ready Inform To Chef",India,48,8837,FALSE,FALSE,FALSE,TRUE
+223,2,1,1,2,1,1,Maze Platter was Not Good At All.,India,9,12528,FALSE,FALSE,FALSE,TRUE
+224,1,2,2,2,2,3,Gulag Jamul Is Huge Should Main The Curliness And In Size.,India,42,14985,FALSE,FALSE,FALSE,FALSE
+225,1,1,1,1,1,1,Good To Be Here.,India,28,18277,FALSE,FALSE,FALSE,TRUE
+226,2,2,2,2,2,2,No,India,4,10554,FALSE,FALSE,FALSE,FALSE
+227,1,1,1,1,1,1,Good Service,India,13,18380,FALSE,FALSE,FALSE,TRUE
+228,1,1,1,1,1,1,Very Good,India,22,17601,FALSE,FALSE,FALSE,TRUE
+229,1,1,1,1,1,1,Compliments To Chef For Excellent Biryani And Chicken.,India,29,7635,TRUE,FALSE,FALSE,FALSE
+230,1,1,1,1,1,1,Excellent Food,India,2,8661,TRUE,FALSE,FALSE,FALSE
+231,1,1,1,1,1,1,Keep It This Way Only,India,1,19228,FALSE,FALSE,FALSE,FALSE
+232,1,1,1,1,1,1,Excellent,India,12,3934,TRUE,FALSE,FALSE,FALSE
+233,1,1,2,1,1,1,Inefficiency Of A/C Made Us To Sweat Than And Enjoy The Food.,India,26,1252,FALSE,FALSE,FALSE,FALSE
+234,1,1,2,1,1,1,Good Food,India,5,12497,FALSE,FALSE,FALSE,TRUE
+235,1,1,1,1,1,1,Very Good Evening And Experience.,India,15,3626,FALSE,FALSE,FALSE,TRUE
+236,1,1,1,1,1,1,Everything Awesome,India,23,9323,FALSE,FALSE,TRUE,FALSE
+237,1,1,1,1,1,1,Great,India,47,9604,FALSE,FALSE,FALSE,FALSE
+238,1,1,2,1,1,1,Very Good,India,45,8935,FALSE,FALSE,FALSE,TRUE
+239,2,2,2,2,1,1,"Serve Smaller Portions, So That The Food In The Plate Does Not Get Cold.",India,44,13297,FALSE,FALSE,FALSE,FALSE
+240,1,1,2,1,1,1,Loved The Food,India,50,12122,FALSE,FALSE,FALSE,FALSE
+241,1,1,1,2,2,2,Do Not Change Touchless All Time Long Please.,India,12,7985,FALSE,FALSE,FALSE,FALSE
+242,1,2,2,2,1,2,Nice Hospitality,India,46,2952,FALSE,FALSE,FALSE,FALSE
+243,2,1,2,1,1,2,Well Done! Keep It Up,India,21,884,FALSE,FALSE,FALSE,FALSE
+244,1,1,1,1,1,1,Giving Ambience Will Good Music.,India,42,4703,FALSE,FALSE,FALSE,TRUE
+245,1,1,1,1,2,2,"We Had A Good Time, Thank You!",India,24,1068,FALSE,FALSE,FALSE,TRUE
+246,1,1,2,1,1,1,The Food Was Excellent And So Were The Portions.,India,42,276,TRUE,FALSE,FALSE,FALSE
+247,1,1,1,1,1,1,"I Visited Here For The First Time 1) S?mbhar Is The Best S?mbhar, I There Had.,   2) Red Chilled Was Too Good, If I Can Get Receipted.",India,38,19276,FALSE,FALSE,FALSE,TRUE
+248,1,1,1,1,1,1,Absolutely Awesome,India,38,5375,FALSE,FALSE,TRUE,FALSE
+249,1,1,1,1,1,1,Live Music,India,9,6280,FALSE,FALSE,FALSE,FALSE
+250,1,1,2,1,2,1,Food Is Very Good,India,45,6684,FALSE,FALSE,FALSE,TRUE
+251,1,1,1,1,1,2,Good Food,India,8,11007,FALSE,FALSE,FALSE,TRUE
+252,1,1,1,1,1,1,God Food Good Service,India,16,13184,FALSE,FALSE,FALSE,TRUE
+253,1,1,1,1,1,1,Salt Was Not Present In Dal Lakhani And Mix Veg. Here Bara Kebab Was Extremely Good.,India,34,2533,FALSE,FALSE,FALSE,TRUE
+254,1,1,2,1,1,1,Color Of Butter Chicken Is Too Dark.,India,41,18060,FALSE,FALSE,FALSE,FALSE
+255,1,1,1,1,1,1,Good,India,31,1105,FALSE,FALSE,FALSE,TRUE
+256,1,1,1,1,1,2,Great,India,42,1564,FALSE,FALSE,FALSE,FALSE
+257,1,1,1,1,1,1,Amazing,India,49,9516,FALSE,FALSE,FALSE,FALSE
+258,2,2,1,2,1,2,Pad Thai Noodles Was Not As Per What It Should Be Like,India,9,16552,FALSE,FALSE,FALSE,FALSE
+259,1,1,1,1,1,2,Very Good Over All,India,37,18796,FALSE,FALSE,FALSE,TRUE
+260,1,1,1,1,1,1,Too Much Lemon In My Dishes,India,18,3952,FALSE,FALSE,FALSE,FALSE
+261,2,1,2,1,1,1,Fantastic Service,India,24,9225,FALSE,FALSE,FALSE,FALSE
+262,1,1,1,1,1,1,Good,India,43,17268,FALSE,FALSE,FALSE,TRUE
+263,1,1,2,2,2,1,Please Increase Fresh Veg Inside The Restraint.,India,19,549,FALSE,FALSE,FALSE,FALSE
+264,1,1,1,1,1,1,Good Food Good Staff Good Ambience,India,42,6173,FALSE,FALSE,FALSE,TRUE
+265,1,1,1,1,1,2,Waiters Mouth Stinks,India,49,5680,FALSE,FALSE,FALSE,FALSE
+266,1,1,1,1,1,1,No Complaints,India,2,17271,FALSE,FALSE,FALSE,FALSE
+267,1,2,2,1,1,2,Keep A Letter Pen For Filling Oat These Forms,India,9,1083,FALSE,FALSE,FALSE,FALSE
+268,1,1,1,1,1,1,Good,India,34,13414,FALSE,FALSE,FALSE,TRUE
+269,1,1,1,1,1,1,Just Be The Way It Is,India,18,14234,FALSE,FALSE,FALSE,FALSE
+270,1,1,1,1,1,1,Good Food,India,9,7918,FALSE,FALSE,FALSE,TRUE
+271,1,1,1,1,1,1,Excellent,India,33,4728,TRUE,FALSE,FALSE,FALSE
+272,1,1,1,1,1,1,I Love Coming To Much My Favorite Place.,India,11,7531,FALSE,FALSE,FALSE,FALSE
+273,1,1,1,1,1,1,Kofi Was Superb,India,25,13550,FALSE,FALSE,FALSE,FALSE
+274,1,1,1,1,1,1,Good,India,46,18968,FALSE,FALSE,FALSE,TRUE
+275,1,1,1,1,1,2,Keep It Up,India,50,18194,FALSE,FALSE,FALSE,FALSE
+276,1,1,1,1,1,1,Perfection Can't Be Amended,India,2,9654,FALSE,FALSE,FALSE,FALSE
+277,1,1,1,1,1,2,Thumbs Up Keep Up The Good Work,India,19,7161,FALSE,FALSE,FALSE,TRUE
+278,1,1,1,1,1,1,Very Quite Place,India,26,7576,FALSE,FALSE,FALSE,FALSE
+279,2,1,1,1,1,1,Taste Used To Be Better 6 Month Ago,India,18,2075,FALSE,FALSE,FALSE,FALSE
+280,1,1,1,1,1,1,I Had A Great Time,India,13,7214,FALSE,FALSE,FALSE,FALSE
+281,1,1,1,1,1,1,Everything Was Fine,India,8,18874,FALSE,FALSE,FALSE,FALSE
+282,1,1,1,1,1,1,Everything In Good,India,15,1342,FALSE,FALSE,FALSE,TRUE
+283,1,1,1,1,1,1,Keep Up The Good Work,India,14,15754,FALSE,FALSE,FALSE,TRUE
+284,1,1,1,1,1,1,Will Be Visit Again,India,39,19283,FALSE,FALSE,FALSE,FALSE
+285,1,1,1,1,1,1,Good Work Help It Up,India,19,10271,FALSE,FALSE,FALSE,TRUE
+286,1,1,1,1,1,1,Always A Pleasure,India,46,9566,FALSE,FALSE,FALSE,FALSE
+287,2,2,2,2,2,2,Good,India,20,14604,FALSE,FALSE,FALSE,TRUE
+288,1,1,1,1,1,1,Offer Some Discount To Your Regular Customer.,India,49,13747,FALSE,FALSE,FALSE,FALSE
+289,1,1,1,1,1,1,Delicious Food,India,43,19662,FALSE,FALSE,FALSE,FALSE
+290,1,1,1,1,1,1,Keep It Up,India,4,2021,FALSE,FALSE,FALSE,FALSE
+291,2,1,1,1,1,2,None,India,45,9786,FALSE,FALSE,FALSE,FALSE
+292,1,1,1,1,1,1,Keep It Up,India,41,1607,FALSE,FALSE,FALSE,FALSE
+293,2,1,1,2,2,2,Quality Should Be Little More High.,India,9,5317,FALSE,FALSE,FALSE,FALSE
+294,1,1,1,1,1,1,Good,India,36,8033,FALSE,FALSE,FALSE,TRUE
+295,1,1,1,1,1,1,Be Provide The Earlier.,India,36,13647,FALSE,FALSE,FALSE,FALSE
+296,2,2,1,1,1,1,Room For Improvement,India,49,15271,FALSE,FALSE,FALSE,FALSE
+297,1,1,1,1,1,2,Size Of Samosa Should Be Smaller. One Whole Is Too Heavy.,India,15,15011,FALSE,FALSE,FALSE,FALSE
+298,1,1,1,1,1,2,Delay In The Food Order To Come Can Be Dealt With.,India,3,16780,FALSE,FALSE,FALSE,FALSE
+299,1,1,1,1,1,1,Great Menu And Food,India,5,17851,FALSE,FALSE,FALSE,FALSE
+300,1,1,1,1,1,1,Very Nice Ambience.,India,20,15869,FALSE,FALSE,FALSE,FALSE
+301,2,2,2,2,2,3,Lamb Chops Were Tough And Took Too Long To Be Served.,India,46,19256,FALSE,FALSE,FALSE,FALSE
+302,1,1,1,1,1,1,Food Was Excellent,India,41,7335,TRUE,FALSE,FALSE,FALSE
+303,1,1,1,1,1,1,Keep It Up,India,4,11818,FALSE,FALSE,FALSE,FALSE
+304,1,1,1,1,1,1,Overall Very Good Experience.,India,32,9202,FALSE,FALSE,FALSE,TRUE
+305,1,1,1,1,1,1,The Food Was Delicious,India,24,11741,FALSE,FALSE,FALSE,FALSE
+306,1,2,2,1,2,2,Can You Put On Some Better Music Please And Give Better Pen!,India,7,12623,FALSE,FALSE,FALSE,FALSE
+307,1,1,1,1,1,1,Thanks For The Cleanliness Of The Washroom And The Redecorated Set Up! Enjoyed Our Experience,India,6,15100,FALSE,FALSE,FALSE,FALSE
+308,1,2,1,1,1,1,Good Food,India,1,15987,FALSE,FALSE,FALSE,TRUE
+309,1,1,1,1,1,1,Nice Food And Service,India,43,9032,FALSE,FALSE,FALSE,FALSE
+310,1,1,1,1,1,1,Excellent,India,12,9815,TRUE,FALSE,FALSE,FALSE
+311,2,2,1,1,1,1,"On The Whole, It Is Quite Good.",India,46,4091,FALSE,FALSE,FALSE,TRUE
+312,1,1,1,1,1,1,Good Food,India,32,7241,FALSE,FALSE,FALSE,TRUE
+313,2,2,1,2,2,1,Keep Spicy,India,18,981,FALSE,FALSE,FALSE,FALSE
+314,1,1,1,1,1,1,"We Ordered The Signature Butter Chicken, Nice But A Bit Too Sweet, Plus See",India,39,19520,FALSE,FALSE,FALSE,FALSE
+315,1,1,1,1,1,1,Nice Food  ,India,48,4269,FALSE,FALSE,FALSE,FALSE
+316,1,1,1,1,1,1,Great,India,7,18436,FALSE,FALSE,FALSE,FALSE
+317,2,2,2,2,1,1,Excellent Food ,India,26,19264,TRUE,FALSE,FALSE,FALSE
+318,1,1,1,1,1,1,Nice Food,India,5,10759,FALSE,FALSE,FALSE,FALSE
+319,1,1,1,1,1,1,No Comments,India,16,2556,FALSE,FALSE,FALSE,FALSE
+320,2,1,1,1,1,1,Multan Jib Had Been Very Good And Courtesan To Us. Thanks,India,36,1224,FALSE,FALSE,FALSE,TRUE
+321,1,1,1,1,1,1,Food Its Really Nice.,India,3,17304,FALSE,FALSE,FALSE,FALSE
+322,1,1,1,1,1,1,Always An Enjoyable Experience Very Nostalgic.,India,12,9727,FALSE,FALSE,FALSE,FALSE
+323,1,1,2,1,1,1,Great Club Sandwiches,India,33,7502,FALSE,FALSE,FALSE,FALSE
+324,1,1,1,1,1,1,Good,India,48,3218,FALSE,FALSE,FALSE,TRUE
+325,1,1,1,1,1,2,Keep It Up (Add Some Nuts And Papa With drink),India,6,3595,FALSE,FALSE,FALSE,FALSE
+326,1,1,1,1,1,1,Good As Always,India,36,7750,FALSE,FALSE,FALSE,TRUE
+327,1,1,1,1,1,2,"On The Whole Very Good, These Should Be Greater Varity In Sauces. The Banana In The Banana Spilt Could Be Sweeter.",India,28,7554,FALSE,FALSE,FALSE,TRUE
+328,1,1,1,1,1,1,Good,India,4,5139,FALSE,FALSE,FALSE,TRUE
+329,1,1,2,1,1,2,Keep Up The Good Work,India,16,5565,FALSE,FALSE,FALSE,TRUE
+330,1,1,1,1,1,1,Cocktail The Same,India,3,5433,FALSE,FALSE,FALSE,FALSE
+331,1,1,1,1,1,1,A Very Nice And Satisfaction Experience.,India,35,7850,FALSE,FALSE,FALSE,FALSE
+332,1,1,1,1,1,1,A Bit Dinners In Light And Candles Could Have Nab It A Perfect Dinning.,India,20,102,FALSE,FALSE,FALSE,FALSE
+333,1,1,1,1,1,2,Neat Place,India,16,11727,FALSE,FALSE,FALSE,FALSE
+334,1,1,1,1,1,1,Very Good Meal,India,27,19512,FALSE,FALSE,FALSE,TRUE
+335,1,1,1,2,1,1,Well Visit Again,India,29,15579,FALSE,FALSE,FALSE,FALSE
+336,1,1,2,1,1,1,First Floor Temperature Is Can Warm side.,India,12,5968,FALSE,FALSE,FALSE,FALSE
+337,1,1,1,1,1,1,Thanks You For The Timeless Taste,India ,32,15988,FALSE,FALSE,FALSE,FALSE
+338,1,1,1,1,1,1,Good Experience,India,5,8314,FALSE,FALSE,FALSE,TRUE
+339,1,1,1,1,1,1,"Can't Think Of Any Feedback To Make And Better The Place Is Already Above Average, One Of Our Family Fat.",India,23,7425,FALSE,FALSE,FALSE,FALSE
+340,2,3,1,3,2,2,Very Expensive Nous Than Earlier.,India,38,2534,FALSE,FALSE,FALSE,FALSE
+341,1,1,3,1,1,3,Need To Be More Prompt As We Were Wafting For Sweet Dish To Serve For Around 1/2 Hours.,India,30,19242,FALSE,FALSE,FALSE,FALSE
+342,1,1,2,1,1,1,"Increase Temperature, It Si Very Cold",India,42,13719,FALSE,FALSE,FALSE,FALSE
+343,1,1,1,1,1,1,I Will Come Back,India,49,19466,FALSE,FALSE,FALSE,FALSE
+344,1,1,1,1,1,1,Perfect  ,India,44,2430,FALSE,FALSE,FALSE,FALSE
+345,1,1,1,1,1,1,Nice Worm Friendly Atmosphere As Always Cheers!!,India,46,15986,FALSE,FALSE,FALSE,FALSE
+346,3,2,1,2,2,1,Sandwich Was Too Sweet Put Less Tomatoes And More Of All Other Promised Vegetables.,India,26,3339,FALSE,FALSE,FALSE,FALSE
+347,1,1,1,1,1,1,"I Tried Baingan March Ki Salam, It Could Have Been More Spicy As Usual Hyderabad  Dishes Are. Rest Was Awesome",India,50,17827,FALSE,FALSE,TRUE,FALSE
+348,1,1,1,1,1,2,Keep It Up,India,13,11194,FALSE,FALSE,FALSE,FALSE
+349,1,1,1,1,1,1,Amazing Ambience And Amazing Long Menu,India,8,17487,FALSE,FALSE,FALSE,FALSE
+350,1,1,1,1,1,1,Food As Good As Ever! Keep It Up!!,India,3,10491,FALSE,FALSE,FALSE,TRUE
+351,1,1,1,1,1,1,Excellent,India,3,10360,TRUE,FALSE,FALSE,FALSE
+352,1,1,1,1,1,2,Good Snacks,India,48,14630,FALSE,FALSE,FALSE,TRUE
+353,1,1,1,1,1,1,Love This Place,India,13,14250,FALSE,FALSE,FALSE,FALSE
+354,2,1,2,1,1,1,Extremely Cooperative And Help-Full Waiters,India,23,1393,FALSE,FALSE,FALSE,FALSE
+355,1,1,1,1,1,1,Had A Great Experience,India,5,9573,FALSE,FALSE,FALSE,FALSE
+356,1,1,1,1,1,2,To Be Keep Up,India,50,9186,FALSE,FALSE,FALSE,FALSE
+357,1,1,1,1,1,1,Great Going,India,42,4248,FALSE,FALSE,FALSE,FALSE
+358,1,1,1,1,1,1,We Have Our Experience Here.,India,44,3461,FALSE,FALSE,FALSE,FALSE
+359,1,2,1,1,1,1,Great Food Also Great Memories Of This Place.,India,10,8756,FALSE,FALSE,FALSE,FALSE
+360,1,1,1,1,1,1,Excellent Dinner,India,27,9012,TRUE,FALSE,FALSE,FALSE
+361,3,2,2,1,2,1,Please Play Some Nice Music,India,6,347,FALSE,FALSE,FALSE,FALSE
+362,1,1,1,1,1,1,Great  Work In Keeping The Delhi Heritage  Alive.,India,39,14390,FALSE,FALSE,FALSE,FALSE
+363,1,1,1,1,1,1,Good Overall,India,21,4674,FALSE,FALSE,FALSE,TRUE
+364,1,1,2,1,1,1,Keep Up The Good Work,India,45,3886,FALSE,FALSE,FALSE,TRUE
+365,1,1,1,1,1,1,Varity Of Food With Brilliant Tats,India,16,2599,FALSE,FALSE,FALSE,FALSE
+366,1,2,1,1,1,2,Food Was Not As Good As Previous,India,23,6970,FALSE,FALSE,FALSE,TRUE
+367,1,1,1,1,1,1,Very Tasty Food,India,6,9074,FALSE,FALSE,FALSE,FALSE
+368,1,1,1,1,1,1,Nice Service,India,10,11794,FALSE,FALSE,FALSE,FALSE
+369,1,1,1,1,1,1,If The Candles Will Have From The Floor Unbeatable.,India,14,2880,FALSE,FALSE,FALSE,FALSE
+370,2,2,2,1,2,1,Lay outing Can Be Looked Into Again.,India,50,4944,FALSE,FALSE,FALSE,FALSE
+371,1,2,1,1,1,1,Really Fantastic Cog An Vin. Will Comes B Ask Again.,India,30,14238,FALSE,FALSE,FALSE,FALSE
+372,1,2,2,2,1,1,Ok Satisfactory,India,38,19106,FALSE,FALSE,FALSE,FALSE
+373,1,1,1,1,1,1,Good Ambience And Tasty Food,India,32,12889,FALSE,FALSE,FALSE,TRUE
+374,1,1,1,1,1,1,Great Food! Also Come The Ambience In On Old Much Fan!,India,6,7647,FALSE,FALSE,FALSE,FALSE
+375,1,1,1,1,1,1,Good Food,India,36,13743,FALSE,FALSE,FALSE,TRUE
+376,1,1,1,1,1,2,Very Tasty Food Lovely Ambience,India,2,2501,FALSE,FALSE,FALSE,FALSE
+377,1,1,2,1,1,1,Nice Food,India,34,17637,FALSE,FALSE,FALSE,FALSE
+378,1,1,1,1,1,1,Overall Experience Is Very Good,India,22,2580,FALSE,FALSE,FALSE,TRUE
+379,1,1,1,1,1,1,Nice Food,India,27,18676,FALSE,FALSE,FALSE,FALSE
+380,2,1,1,2,1,1,Very Good Better Then Before,India,7,3418,FALSE,FALSE,FALSE,TRUE
+381,1,2,2,2,1,2,Food Is Expensive For Comman  Man Belonging  Too Cost,India,18,19518,FALSE,FALSE,FALSE,FALSE
+382,1,1,1,1,1,1,Nice Ambience & Food Keep It Up,India,6,3933,FALSE,FALSE,FALSE,FALSE
+383,1,1,1,1,1,1,Perfect,India,50,1221,FALSE,FALSE,FALSE,FALSE
+384,1,2,1,1,1,1,Good Service,India,18,9770,FALSE,FALSE,FALSE,TRUE
+385,1,1,2,1,1,1,Very Good Better Then Before,India,19,10342,FALSE,FALSE,FALSE,TRUE
+386,1,1,1,1,1,1,Everything Was Great,India,18,1293,FALSE,FALSE,FALSE,FALSE
+387,1,1,1,1,1,2,No Its Perfect,India,35,3360,FALSE,FALSE,FALSE,FALSE
+388,1,1,1,1,1,1,Excellent,India,41,18439,TRUE,FALSE,FALSE,FALSE
+389,1,1,1,1,1,1,Excellent Service,India,48,11103,TRUE,FALSE,FALSE,FALSE
+390,1,1,1,1,1,1,Excellent,India,27,19292,TRUE,FALSE,FALSE,FALSE
+391,2,1,1,1,1,1,The Description Of Shahn am Curry Mentions Sliced Cashewnuts Which Were Conspicuous By Their Absence In The Curry Is Not That Cheating Of Sort!,India,39,3761,FALSE,FALSE,FALSE,FALSE
+392,1,1,1,1,1,1,Nice Experience,India,29,4700,FALSE,FALSE,FALSE,FALSE
+393,1,1,1,1,1,1,Very Nice Restaurant The Ambience Of The Restaurant Is Very Nice.,India,49,3996,FALSE,FALSE,FALSE,FALSE
+394,1,2,2,1,2,2,Tasty Food May Improve On Quantity.,India,35,10011,FALSE,FALSE,FALSE,FALSE
+395,1,1,1,1,1,1,Excellent Keep It Up Very Impresive,India,49,383,TRUE,FALSE,FALSE,FALSE
+396,1,1,1,1,1,1,Nice Ambience & Great Service.,India,12,3701,FALSE,FALSE,FALSE,FALSE
+397,1,1,1,1,1,1,Excellent,India,4,19263,TRUE,FALSE,FALSE,FALSE
+398,1,1,1,1,1,1,Airtel Vodafone Signal Is Weak ,India,11,4672,FALSE,FALSE,FALSE,FALSE
+399,1,1,1,1,1,1,Overall A Good Experience,India,26,11218,FALSE,FALSE,FALSE,TRUE
+400,1,1,1,1,1,1,kaala Jaamun Is Amazing,India,3,1598,FALSE,FALSE,FALSE,FALSE
+401,1,1,1,1,1,1,Everything Was Great,India,7,17541,FALSE,FALSE,FALSE,FALSE
+402,1,1,1,1,1,1,We Had Been Have Each Time Asked Beat In Delhi,India,33,5789,FALSE,FALSE,FALSE,FALSE
+403,1,1,1,1,1,1,Good Food,India,45,9270,FALSE,FALSE,FALSE,TRUE
+404,1,1,1,1,1,1,Everything Was Great,India,47,17443,FALSE,FALSE,FALSE,FALSE
+405,1,1,1,1,1,1,Keep It Up Nice To Be Here After Long Time,India,7,15693,FALSE,FALSE,FALSE,FALSE
+406,1,1,2,1,1,1,No Its Perfect,India,23,3269,FALSE,FALSE,FALSE,FALSE
+407,2,2,2,1,1,2,Staff Is Courteons & Cordial,India,6,4534,FALSE,FALSE,FALSE,FALSE
+408,1,1,1,1,1,1,The Biryani Was Blande Could Have Been Better,India,10,14080,FALSE,FALSE,FALSE,FALSE
+409,2,2,2,3,2,2,The Prawns Were Not Fresh And The Coctail Was Over Spicy Plus Missing Abored,India,28,13943,FALSE,FALSE,FALSE,FALSE
+410,2,2,1,2,1,1,No Its Perfect,India,32,17790,FALSE,FALSE,FALSE,FALSE
+411,1,1,1,1,1,1,We Absolutely Love This Place And The Food Here Just Keep Up The Great Work!,India,36,7983,FALSE,FALSE,FALSE,FALSE
+412,1,1,1,1,1,1,Everything Was Great,India,39,14639,FALSE,FALSE,FALSE,FALSE
+413,1,1,1,1,1,1,Everything Was Great,India,7,16150,FALSE,FALSE,FALSE,FALSE
+414,1,1,1,1,1,2,SPEED Of Service May Be Fastened,India,24,4777,FALSE,FALSE,FALSE,FALSE
+415,2,2,2,2,2,2,Be More Attentive To The Table Set Up Guest's Needs Food Coming To The Table From The Kitchen,India,37,6285,FALSE,FALSE,FALSE,FALSE
+416,1,1,2,1,1,1,May Be Quicker Presentation Of Order So That Waiting Period Is Reduced & More Dinners Benefit,India,43,3335,FALSE,FALSE,FALSE,FALSE
+417,1,1,1,1,1,1,Good Service,India,48,18432,FALSE,FALSE,FALSE,TRUE
+418,1,1,1,1,1,1,With Special Mention Pramod Excellent Service,India,23,16596,TRUE,FALSE,FALSE,FALSE
+419,1,1,1,1,1,1,Very Good Better Then Before,India,30,4480,FALSE,FALSE,FALSE,TRUE
+420,1,1,1,1,1,1,Everything Was Great,India,46,5117,FALSE,FALSE,FALSE,FALSE
+421,1,1,1,1,1,1,Perfect,India,28,15345,FALSE,FALSE,FALSE,FALSE
+422,1,1,1,1,3,3,Very Slow Otherwise Great,India,24,6100,FALSE,FALSE,FALSE,FALSE
+423,1,2,1,1,1,1,Everything Was Great,India,48,14968,FALSE,FALSE,FALSE,FALSE
+424,1,2,1,1,1,1,Good Food,India,48,18124,FALSE,FALSE,FALSE,TRUE
+425,1,1,1,1,1,2,Excellent Service,India,25,7045,TRUE,FALSE,FALSE,FALSE
+426,1,1,1,1,1,1,Keep It Up,India,45,15234,FALSE,FALSE,FALSE,FALSE
+427,1,2,1,1,1,1,The Food Was Very Good In Taste And Especially Our Time,India,14,9517,FALSE,FALSE,FALSE,TRUE
+428,2,2,2,2,1,1,The Pork Chops Seemed More Like Spine Ribs,India,20,2443,FALSE,FALSE,FALSE,FALSE
+429,1,1,1,1,1,1,Great Service,India,42,5594,FALSE,FALSE,FALSE,FALSE
+430,1,1,1,1,1,1,Keep It Up,India,34,3047,FALSE,FALSE,FALSE,FALSE
+431,1,1,1,1,1,1,Sri Tahir Khan Was Very Courtions & Helpful,India,19,13776,FALSE,FALSE,FALSE,FALSE
+432,1,1,1,1,1,1,Very Good Better Then Before,India,21,6280,FALSE,FALSE,FALSE,TRUE
+433,1,1,1,1,1,1,No Its Perfect,India,49,5836,FALSE,FALSE,FALSE,FALSE
+434,1,1,1,1,1,1,Excellent,India,48,4326,TRUE,FALSE,FALSE,FALSE
+435,1,1,1,1,1,1,Excellent,India,40,16912,TRUE,FALSE,FALSE,FALSE
+436,1,1,1,1,1,1,Very Good Better Then Before,London,35,13342,FALSE,FALSE,FALSE,TRUE
+437,1,2,2,3,3,3,15% Discount On Amex Is Not Displayed Anywhere Which Is So Very The Same Was Told On Asking By Them The Bill Was Actually Made,India,41,19978,FALSE,FALSE,FALSE,FALSE
+438,1,1,1,1,1,1,Very Good Better Then Before,India,44,12735,FALSE,FALSE,FALSE,TRUE
+439,1,1,2,1,1,1,Very Good Better Then Before,India,17,9114,FALSE,FALSE,FALSE,TRUE
+440,1,1,1,1,1,1,Keep It Up,India,11,15806,FALSE,FALSE,FALSE,FALSE
+441,1,1,1,1,1,1,Good Service,India,8,19984,FALSE,FALSE,FALSE,TRUE
+442,1,1,1,1,1,1,Keep It Up,India,45,11820,FALSE,FALSE,FALSE,FALSE
+443,1,1,1,1,1,1,Very Good Better Then Before,India,36,19625,FALSE,FALSE,FALSE,TRUE
+444,1,1,1,1,1,1,Great Service,India,47,17579,FALSE,FALSE,FALSE,FALSE
+445,2,1,2,1,2,2,Very Good Service Lovely Prescntion,India,30,4864,FALSE,FALSE,FALSE,TRUE
+446,1,1,1,2,1,1,Excellent,India,36,17645,TRUE,FALSE,FALSE,FALSE
+447,1,1,1,1,1,3,Everything Was Great,India,40,18545,FALSE,FALSE,FALSE,FALSE
+448,1,1,1,1,1,1,Excellent,India,31,11410,TRUE,FALSE,FALSE,FALSE
+449,2,2,1,1,1,1,The Club Sandwich Used To Be Different Would Be Good To Have Some Little Tomato Cucumber In It,India,12,7924,FALSE,FALSE,FALSE,TRUE
+450,1,1,1,1,1,1,Keep It Up,India,36,6852,FALSE,FALSE,FALSE,FALSE
+451,1,1,1,1,1,1,Perfect,India,32,12420,FALSE,FALSE,FALSE,FALSE
+452,1,1,1,1,1,1,No Its Perfect,India,7,14950,FALSE,FALSE,FALSE,FALSE
+453,1,1,1,1,1,1,Great Food,India,42,2309,FALSE,FALSE,FALSE,FALSE
+454,1,1,1,2,2,1,Good Food,India,31,14442,FALSE,FALSE,FALSE,TRUE
+455,1,1,2,1,1,1,No Its Perfect,India,30,12624,FALSE,FALSE,FALSE,FALSE
+456,1,1,2,1,1,1,Excellent Service,India,20,10366,TRUE,FALSE,FALSE,FALSE
+457,1,1,1,1,1,1,Very Good Better Then Before,India,35,4486,FALSE,FALSE,FALSE,TRUE
+458,1,1,1,1,1,1,Good Food,India,25,3393,FALSE,FALSE,FALSE,TRUE
+459,3,3,2,3,3,3,Food Was Served Cold & Then Replaced Bad Quality Of Service,India,1,14442,FALSE,FALSE,FALSE,FALSE
+460,1,1,1,1,1,1,Nice Experience,India,45,19610,FALSE,FALSE,FALSE,FALSE
+461,1,1,1,1,1,1,A Bit Slow On Delivery The Order,India,36,13565,FALSE,FALSE,FALSE,FALSE
+462,1,1,2,1,1,1,Temp. Should Be Prep Managed,India,25,5422,FALSE,FALSE,FALSE,FALSE
+463,1,2,1,1,1,1,Very Good Better Then Before,India,9,7731,FALSE,FALSE,FALSE,TRUE
+464,1,1,1,1,2,2,Should Keep Some Light Music(In Terms Of Soft Melodies),India,28,9666,FALSE,FALSE,FALSE,FALSE
+465,1,1,1,1,1,1,Great Food Enjoyed As Always,India,6,12307,FALSE,FALSE,FALSE,FALSE
+466,2,1,1,2,1,2,Music Boring,India,11,4039,FALSE,FALSE,FALSE,FALSE
+467,1,1,1,1,1,1,Biryani Should Be Authenhe Dim Biryani Open Biryani Served Do Not Taste The Same.,India,18,19814,FALSE,FALSE,FALSE,FALSE
+468,1,1,1,1,1,1,Very Nice,India,47,14620,FALSE,FALSE,FALSE,FALSE
+469,1,1,1,1,1,1,Excellent Service Br Mr. Pramod Good Food,India,44,15648,TRUE,FALSE,FALSE,TRUE
+470,1,1,1,1,1,1,Superb Experience! Great Food & Desert Keep It Up,India,13,16804,FALSE,FALSE,FALSE,FALSE
+471,1,1,2,1,1,1,The Excellent & Nice With Smiley Service By Basant,India,33,14605,TRUE,FALSE,FALSE,FALSE
+472,1,1,1,1,1,2,The Food Was Delicious Specially Kalla Jamun.We Enjoyed!!! But The Food Did Not Come At Time It Was Late,India,8,4879,FALSE,FALSE,FALSE,FALSE
+473,2,2,2,3,1,1,Perfect,India,30,10744,FALSE,FALSE,FALSE,FALSE
+474,1,1,1,1,1,1,Excellent,India,42,15539,TRUE,FALSE,FALSE,FALSE
+475,2,1,1,1,1,1,All Is Good.& Wish You Success,India,9,13477,FALSE,FALSE,FALSE,TRUE
+476,1,1,2,1,1,1,Excellent,India,40,16228,TRUE,FALSE,FALSE,FALSE
+477,1,1,1,1,1,1,Food And Decoration Were Awesome!!!,India,24,13915,FALSE,FALSE,TRUE,FALSE
+478,1,1,1,1,1,1,Plz Improve The Choice Of Music,India,35,15327,FALSE,FALSE,FALSE,FALSE
+479,1,1,1,1,1,1,Food Was Excellent Deserts Were Ok The Backed Alesha Was A Let Down. The Salt In Me Yomyumm Was Laugh,India,8,4950,TRUE,FALSE,FALSE,FALSE
+480,1,1,1,1,1,2,Enjoyed Overall,India,32,7910,FALSE,FALSE,FALSE,FALSE
+481,1,1,1,1,1,1,Thanks A Lot To You Keep It Up!!,India,39,6842,FALSE,FALSE,FALSE,FALSE
+482,1,1,1,1,1,1,Very Nice & Efficient Staff. Quick Service,India,6,1220,FALSE,FALSE,FALSE,FALSE
+483,1,1,1,1,1,1,Good Food Good Ambience Keep It Up,India,50,10456,FALSE,FALSE,FALSE,TRUE
+484,1,1,1,1,1,1,Good Food,India,28,13974,FALSE,FALSE,FALSE,TRUE
+485,1,1,2,1,1,1,Good Food Good Service,India,22,3763,FALSE,FALSE,FALSE,TRUE
+486,3,3,2,1,1,1,We Ordered Cheese Ball Which Were Bad With No Taste Of Cheese It Used To Be Your Signature Dish But Very Disappointing,India,29,17497,FALSE,FALSE,FALSE,FALSE
+487,2,2,1,2,2,1,Foo's Was Ok Not Upto The Expiation As The Ambience,India,10,14462,FALSE,FALSE,FALSE,FALSE
+488,1,1,1,1,1,1,Nice Food,India,18,2685,FALSE,FALSE,FALSE,FALSE
+489,1,2,1,1,2,2,Perfect,India,4,5396,FALSE,FALSE,FALSE,FALSE
+490,1,1,1,1,1,1,Perfect,India,4,19739,FALSE,FALSE,FALSE,FALSE
+491,1,1,1,1,1,1,Service Should Be A Little Faster,India,25,7610,FALSE,FALSE,FALSE,FALSE
+492,1,1,1,1,2,1,Nice Food,India,44,18251,FALSE,FALSE,FALSE,FALSE
+493,1,1,1,1,1,2,Thank For Serving Dosa For Child,India,4,5469,FALSE,FALSE,FALSE,FALSE
+494,1,1,2,2,1,1,Everything Was Great,India,1,17657,FALSE,FALSE,FALSE,FALSE
+495,1,1,1,1,1,1,Excellent,India,21,17949,TRUE,FALSE,FALSE,FALSE
+496,1,1,1,1,1,1,Really Love The Ambience And Courtesy,India,7,12461,FALSE,FALSE,FALSE,FALSE
+497,2,2,1,2,2,2,Services Needs Improvement,India,26,5452,FALSE,FALSE,FALSE,FALSE
+498,1,1,1,1,1,1,Good Service,India,26,6938,FALSE,FALSE,FALSE,TRUE
+499,1,1,1,1,2,2,Nice Keep It Up!,India,49,11694,FALSE,FALSE,FALSE,FALSE
+500,1,1,1,1,1,1,No Remarks/Suggestion For The Those Who Are Already Best,India,6,7749,FALSE,FALSE,FALSE,FALSE
+501,1,1,1,1,1,2,Good ,India,7,6584,FALSE,FALSE,FALSE,TRUE
+502,1,1,2,1,1,1,Serve Breads In Hot Case,India,22,9406,FALSE,FALSE,FALSE,FALSE
+503,2,1,1,1,1,1,Dal Makhani Taste Needs Lot Of Improve,India,10,4357,FALSE,FALSE,FALSE,FALSE
+504,1,1,1,1,1,1,We Will Come Back!,India,16,6764,FALSE,FALSE,FALSE,FALSE
+505,1,2,2,2,1,1,Ply Improve Your Chicken Cutlet!,India,9,7025,FALSE,FALSE,FALSE,FALSE
+506,1,1,1,1,1,1,Good Food,India,46,8369,FALSE,FALSE,FALSE,TRUE
+507,1,1,1,2,1,1,Perfect,India,12,11747,FALSE,FALSE,FALSE,FALSE
+508,1,1,1,1,1,2,Very Good Better Then Before,India,44,8998,FALSE,FALSE,FALSE,TRUE
+509,1,2,1,1,1,1,Very Nice Food,India,16,19565,FALSE,FALSE,FALSE,FALSE
+510,1,1,1,1,1,1,Enjoyed A Lot Awesome Taste,India,11,6612,FALSE,FALSE,TRUE,FALSE
+511,2,1,1,2,1,1,Indian Breads Are Supposed To Be A Bit Softer & Lightly To Eat,India,10,18725,FALSE,FALSE,FALSE,FALSE
+512,2,1,2,2,1,1,Its Cold Inside Food Is Ok Can Be Improved,India,27,11636,FALSE,FALSE,FALSE,FALSE
+513,1,1,1,1,1,1,Jeer Rice-Very Low Jeer In Rice It Had To Be Returned,India,46,18591,FALSE,FALSE,FALSE,FALSE
+514,1,1,1,1,1,1,Good Food!,India,26,3983,FALSE,FALSE,FALSE,TRUE
+515,1,1,1,1,1,1,Excellent,India,46,2350,TRUE,FALSE,FALSE,FALSE
+516,1,1,2,1,1,1,Our Waiter Mr. Chandan  Was Ratably Caution To Helpful,India,37,6682,FALSE,FALSE,FALSE,FALSE
+517,1,1,1,1,1,1,Very Good Better Then Before,India,22,479,FALSE,FALSE,FALSE,TRUE
+518,1,1,1,1,1,1,Excellent,India,48,11504,TRUE,FALSE,FALSE,FALSE
+519,1,1,1,1,1,1,All Is Well,India,24,10525,FALSE,FALSE,FALSE,FALSE
+520,1,1,1,1,1,1,Keep It Up,India,49,11212,FALSE,FALSE,FALSE,FALSE
+521,1,1,1,1,1,1,Great Experience Overall,India,11,7184,FALSE,FALSE,FALSE,FALSE
+522,2,1,1,1,1,1,Sigrid Pudiana Choap Was Not Upto Mark (Not Cook Well) Plz Try To Improve,India,48,5510,FALSE,FALSE,FALSE,FALSE
+523,1,1,1,1,1,1,Good Quality Good Food,India,21,4349,FALSE,FALSE,FALSE,TRUE
+524,2,1,2,2,1,1,The Mix Grill Use To Taste Better And Really Could Not Understand Masala Beam With Lamb Burger,India,4,13801,FALSE,FALSE,FALSE,FALSE
+525,1,1,2,2,1,2,Nothing  ,India,49,11491,FALSE,FALSE,FALSE,FALSE
+526,1,1,2,1,1,1,Good Food,India,14,8117,FALSE,FALSE,FALSE,TRUE
+527,1,1,1,1,1,1,Waiter Correctly Advised Is On Food Order,India,22,17074,FALSE,FALSE,FALSE,FALSE
+528,1,1,2,1,1,1,Sula Biryanis Taste Can Be Improved,India,47,12940,FALSE,FALSE,FALSE,FALSE
+529,1,1,1,1,2,1,"We Enjoyed The Food, Thank You.",India,39,18406,FALSE,FALSE,FALSE,FALSE
+530,1,2,2,1,1,1,Fine,India,26,19972,FALSE,FALSE,FALSE,FALSE
+531,2,2,1,2,1,2,Perfect,India,48,5455,FALSE,FALSE,FALSE,FALSE
+532,2,1,2,2,1,3,Keep It Up,India,32,2123,FALSE,FALSE,FALSE,FALSE
+533,1,1,1,1,1,1,Great Service,India,1,9874,FALSE,FALSE,FALSE,FALSE
+534,1,1,1,1,1,1,Very Good Better Then Before,India,5,5912,FALSE,FALSE,FALSE,TRUE
+535,1,1,1,1,1,1,Keep It Up,India,47,6941,FALSE,FALSE,FALSE,FALSE
+536,1,1,1,1,1,1,No Its Perfect,India,15,4829,FALSE,FALSE,FALSE,FALSE
+537,1,1,1,1,1,1,Always Enjoy United Coffee House Whenever I Visit Delhi.,India,43,5757,FALSE,FALSE,FALSE,FALSE
+538,1,1,1,1,1,1,Great Service,India,38,9058,FALSE,FALSE,FALSE,FALSE
+539,1,1,1,1,1,1,"Very Comfortable Ambiance, Very Pleasant Music.Keep It Up",India,11,5448,FALSE,FALSE,FALSE,FALSE
+540,1,1,2,1,1,1,Thanks,India,46,421,FALSE,FALSE,FALSE,FALSE
+541,1,1,2,1,2,1,Nice Food,India,9,9593,FALSE,FALSE,FALSE,FALSE
+542,1,1,1,1,1,2,Great Food,India,29,5904,FALSE,FALSE,FALSE,FALSE
+543,1,1,1,1,1,1,Wonderful Experience,India,24,4076,FALSE,FALSE,FALSE,FALSE
+544,1,1,1,1,1,1,Excellent Food,India,31,5216,TRUE,FALSE,FALSE,FALSE
+545,2,1,2,1,1,1,Show Be Flexible About The Choices Of The Customer Which Is Not Available In The Menu Card.,India,30,9465,FALSE,FALSE,FALSE,FALSE
+546,1,1,1,1,1,1,"Great Service, Would Love To Visit Again. Keep It Up.",India,22,15917,FALSE,FALSE,FALSE,FALSE
+547,2,1,3,1,2,2,A/C Is Not Working,India,1,8535,FALSE,FALSE,FALSE,FALSE
+548,1,1,2,2,1,3,The Grilled Sandwich Was A Bit Salty And Had Very In The Chicken.,India,26,15238,FALSE,FALSE,FALSE,FALSE
+549,1,1,1,1,1,1,Amazing Fantastic As Always.Superb Unique Gulab Jamun,India,25,6224,FALSE,FALSE,FALSE,FALSE
+550,1,1,1,1,1,1,May be More Feta On The Green Salad. That Is The Greek part Very Friendly Swervice Everytime I Come Thank You,India,44,10156,FALSE,FALSE,FALSE,FALSE
+551,2,2,1,1,1,1,"Vasant, I Feel Too Much Paper Taste...For Japanese",Japan,3,14351,FALSE,FALSE,FALSE,FALSE
+552,1,1,1,1,1,1,"Coffee Can Be Improved, By Working It Stronger And Sweeter Music Should be Improved Play More Of Instruction louge Music",India,19,9907,FALSE,FALSE,FALSE,FALSE
+553,1,1,1,2,1,1,"Parking Problem, Parking People Day Parking After 1000   Is Closed.Only Exit Gate Open So Long Waiting Please Solve",India,34,16562,FALSE,FALSE,FALSE,FALSE
+554,1,1,1,2,1,1,The Champ Needs To Be Easier Mouth was Too Stifo,India,47,3714,FALSE,FALSE,FALSE,FALSE
+555,1,1,1,1,1,1,Nice Food,India,38,9051,FALSE,FALSE,FALSE,FALSE
+556,1,1,1,1,2,2,The Staff Should Be More Courteous & Humble With The Guest.Especially Mr Birbal He Is Too Rude,India,39,14527,FALSE,FALSE,FALSE,FALSE
+557,1,1,1,1,1,1,We Should Come Back Soon.,India,19,18531,FALSE,FALSE,FALSE,FALSE
+558,1,1,1,1,1,1,"Very Nice Ambiance, Good Service.Music Selection Was Also Nice Will Come Back To Eat Again",India,29,1766,FALSE,FALSE,FALSE,TRUE
+559,1,1,1,1,2,1,Presentation Is Good.,India,10,7677,FALSE,FALSE,FALSE,TRUE
+560,1,1,1,1,2,2,Glassed Look Old Has Moved Needs To Go.,India,36,4408,FALSE,FALSE,FALSE,FALSE
+561,1,1,1,1,1,1,Lovely Food & Service Thank You,India,28,3259,FALSE,FALSE,FALSE,FALSE
+562,1,1,1,1,1,1,Service & Quality Are AS Per Our Expection,India,28,12277,FALSE,FALSE,FALSE,FALSE
+563,1,1,1,1,1,1,"Great Service, Fabulous Ambiance.",India,42,14730,FALSE,FALSE,FALSE,FALSE
+564,1,1,1,1,1,1,Great Place Great Food Great Serevice,India,36,4168,FALSE,FALSE,FALSE,FALSE
+565,1,1,1,1,2,2,Overall Great. Excellent Food And Ambience Water Service Was Slow And Not Without Asking  Multtiple Times,India,12,17529,TRUE,FALSE,FALSE,FALSE
+566,2,1,1,2,2,2,Keep It Up,India,43,770,FALSE,FALSE,FALSE,FALSE
+567,1,1,1,1,1,1,"Really Outstanding Food & Service, Always & Feel Great After Visiting This Place Keep Up The Good Work",India,6,7469,FALSE,FALSE,FALSE,TRUE
+568,1,1,1,1,1,1,More Variety Of Beer Would Be Nicer Especially ,India,39,7350,FALSE,FALSE,FALSE,FALSE
+569,1,1,1,1,1,1,The Delicacies Of The Restaurant Have Been Really Enjoyable,India,41,9870,FALSE,FALSE,FALSE,FALSE
+570,1,1,1,1,1,1,Fantastic Food.,India,45,4871,FALSE,FALSE,FALSE,FALSE
+571,1,1,1,1,1,1,Absolutely Fantastic Saurabh Makes The Difference,India,49,8106,FALSE,FALSE,FALSE,FALSE
+572,2,1,1,2,1,2,Need Some Important In Terms Of Speed Of Service,India,28,3985,FALSE,FALSE,FALSE,FALSE
+573,1,1,1,1,1,1,All Good,India,38,6499,FALSE,FALSE,FALSE,TRUE
+574,2,2,1,1,2,3,Overall Good Bit Oily And More Salt,India,15,11209,FALSE,FALSE,FALSE,TRUE
+575,1,1,1,1,1,1,Very Vintage Nice,India,29,10612,FALSE,FALSE,FALSE,FALSE
+576,1,1,1,1,1,1,Keep It Up,India,50,17699,FALSE,FALSE,FALSE,FALSE
+577,2,2,1,2,1,1,Nice Experience,India,15,3173,FALSE,FALSE,FALSE,FALSE
+578,1,1,1,1,1,1,Excellent Keep Up The Good Work,India,32,3961,TRUE,FALSE,FALSE,TRUE
+579,1,1,1,1,1,1,The Evening Was Going Great Till The Buter Chiken Had Stale Chiken Some Pieces Tasted Sour And Smelt Bad,India,34,1293,FALSE,FALSE,FALSE,FALSE
+580,2,1,1,1,1,2,Good Service,India,18,18674,FALSE,FALSE,FALSE,TRUE
+581,1,1,1,1,1,1,My Second Visit Is Great Ambience & Good Tasty Food,India,23,3021,FALSE,FALSE,FALSE,TRUE
+582,1,1,1,1,1,1,Good Service,India,32,8174,FALSE,FALSE,FALSE,TRUE
+583,1,1,3,1,1,1,Air Condition Ambience Is Not Sufficent,India,43,5973,FALSE,FALSE,FALSE,FALSE
+584,2,2,2,1,1,2,The Entrance To The Coffee House Is Very Good Attractive,India,49,321,FALSE,FALSE,FALSE,TRUE
+585,1,1,1,1,1,1,Staff Is Very Helpful & The Food Is Very Good,India,10,1807,FALSE,FALSE,FALSE,TRUE
+586,1,1,1,1,1,1,Awesome Food,India,37,12157,FALSE,FALSE,TRUE,FALSE
+587,1,1,1,1,1,1,Great Food,India,24,4831,FALSE,FALSE,FALSE,FALSE
+588,1,1,1,1,1,1,The Service And The Staff Was Extremely Friendly,India,48,6717,FALSE,FALSE,FALSE,FALSE
+589,1,1,1,1,1,1,No Its Perfect,India,40,14177,FALSE,FALSE,FALSE,FALSE
+590,1,1,1,1,1,1,Excellent Service,India,10,19396,TRUE,FALSE,FALSE,FALSE
+591,1,1,1,1,1,1,Very Good Service Taste & Food,India,21,2066,FALSE,FALSE,FALSE,TRUE
+592,1,1,1,1,1,1,Excellent,India,21,11935,TRUE,FALSE,FALSE,FALSE
+593,1,1,1,1,1,1,Great Service,India,36,522,FALSE,FALSE,FALSE,FALSE
+594,1,1,1,1,1,1,Great Food,India,16,1466,FALSE,FALSE,FALSE,FALSE
+595,1,1,1,1,1,1,Awesome Food,India,30,14581,FALSE,FALSE,TRUE,FALSE
+596,1,1,1,2,2,1,Good Ambiance & Keep Up The Good Work,India,5,13733,FALSE,FALSE,FALSE,TRUE
+597,1,1,1,1,1,1,Good Ambiance & Food,India,11,9341,FALSE,FALSE,FALSE,TRUE
+598,1,1,1,1,1,1,Very Good Better Then Before,India,16,15334,FALSE,FALSE,FALSE,TRUE
+599,1,1,1,1,1,1,Very Good Better Then Before,India,25,13780,FALSE,FALSE,FALSE,TRUE
+600,1,1,1,1,1,1,Perfect,India,39,7248,FALSE,FALSE,FALSE,FALSE
+601,1,1,1,1,1,1,Everything Was Great,India,21,4487,FALSE,FALSE,FALSE,FALSE
+602,1,1,1,1,1,1,Good Food,India,29,2151,FALSE,FALSE,FALSE,TRUE
+603,1,1,1,1,1,1,Excellent Food Excellent Service By Jeet Please Keep It Up,India,2,4597,TRUE,FALSE,FALSE,FALSE
+604,1,1,1,1,1,1,Food Was Perfect But Not The Tea.,India,48,17438,FALSE,FALSE,FALSE,FALSE
+605,1,1,1,1,1,1,PlS Wait For Sometime To Pickup Plates After Having Dinner.,India,37,15943,FALSE,FALSE,FALSE,FALSE
+606,1,1,1,1,2,2,None,India,1,8736,FALSE,FALSE,FALSE,FALSE
+607,3,2,3,1,1,2,Chinese Wisent Really Chinese Hot Garlic Was Not Tasty and Garlic Chowmein Don't Have Any Taste I Hate The Garlic,India,24,19094,FALSE,FALSE,FALSE,FALSE
+608,1,1,1,1,1,1,Awesome Food,India,27,19045,FALSE,FALSE,TRUE,FALSE
+609,1,1,1,1,1,1,Perfect,India,14,7351,FALSE,FALSE,FALSE,FALSE
+610,1,1,1,1,1,1,Excellent,India,6,496,TRUE,FALSE,FALSE,FALSE
+611,1,1,1,1,1,1,Excellent,India,18,1915,TRUE,FALSE,FALSE,FALSE
+612,1,1,1,1,1,1,The Food Was Delicious Enjoyed It A lot.Thank You,India,42,4912,FALSE,FALSE,FALSE,FALSE
+613,1,1,1,1,1,1,Its Our Favourate Place Since 1986 Simply Love It,India,34,19799,FALSE,FALSE,FALSE,FALSE
+614,1,1,1,1,1,1,"Excellent Courtesy, Great Teste & Ambiance Please It Up",India,17,16501,TRUE,FALSE,FALSE,FALSE
+615,1,1,1,1,1,1,Good Food.,India,8,3308,FALSE,FALSE,FALSE,TRUE
+616,1,1,1,1,1,1,Very Good Better Then Before,India,2,12765,FALSE,FALSE,FALSE,TRUE
+617,1,1,1,1,1,1,Excellent Experience Will Sevely Come Back ,India,11,4003,TRUE,FALSE,FALSE,FALSE
+618,1,1,1,1,1,1,Nice Experience,India,33,6397,FALSE,FALSE,FALSE,FALSE
+619,1,1,1,1,1,1,Great Food & Hospitality,India,16,15375,FALSE,FALSE,FALSE,FALSE
+620,1,1,1,1,1,1,Nice To Visit,India,42,19588,FALSE,FALSE,FALSE,FALSE
+621,1,1,1,1,1,1,"Awesome Food, Good Job",India,34,6160,FALSE,FALSE,TRUE,TRUE
+622,1,1,1,1,1,1,There Should Be A Siege Of Corporate Discount As Well.,India,11,6247,FALSE,FALSE,FALSE,FALSE
+623,1,1,1,1,1,1,Brilliant. Keep It Up.,India,41,16959,FALSE,FALSE,FALSE,FALSE
+624,1,1,1,1,1,1,Food Was Great,India,15,549,FALSE,FALSE,FALSE,FALSE
+625,1,1,1,1,1,1,Excellent,India,38,17335,TRUE,FALSE,FALSE,FALSE
+626,1,1,1,1,1,1,Keep It Up,India,38,19929,FALSE,FALSE,FALSE,FALSE
+627,1,1,1,1,1,1,Good Ambience Good Service Keep Up The Good Job,India,34,2399,FALSE,FALSE,FALSE,TRUE
+628,1,1,1,1,1,1,Tasty Food We Ever Enjoy Thanks,India,38,3623,FALSE,FALSE,FALSE,FALSE
+629,1,1,1,1,1,1,No Its Perfect,India,35,7106,FALSE,FALSE,FALSE,FALSE
+630,1,1,1,1,1,1,Butter Chicken Took A Lot Of Time To Be Served,India,6,9635,FALSE,FALSE,FALSE,FALSE
+631,1,1,1,1,1,1,We Are Very Pleasured With Our Experience We Are Customers Since 40 Years,India,9,15076,FALSE,FALSE,FALSE,FALSE
+632,1,1,1,1,1,1,Food Was Tasted Fresh And Authentic,India,6,19920,FALSE,FALSE,FALSE,FALSE
+633,1,1,1,1,1,1,It Is A Great And Beautiful Site,India,23,14519,FALSE,FALSE,FALSE,FALSE
+634,1,1,1,1,1,1,All Is Well,India,47,8774,FALSE,FALSE,FALSE,FALSE
+635,1,1,1,1,1,1,Excellent,India,30,12649,TRUE,FALSE,FALSE,FALSE
+636,1,2,1,1,1,1,Very Good Food Great Service Keep It Up,India,46,8341,FALSE,FALSE,FALSE,TRUE
+637,1,1,1,1,1,1,Much Has Always Been Our Best Food. Thank You For Your Services,India,35,16496,FALSE,FALSE,FALSE,FALSE
+638,1,1,1,1,1,1,Excellent,India,43,763,TRUE,FALSE,FALSE,FALSE
+639,1,1,3,1,1,1,Keep It Up,India,40,6566,FALSE,FALSE,FALSE,FALSE
+640,1,2,1,1,1,1,Very Good Better Then Before,India,23,9854,FALSE,FALSE,FALSE,TRUE
+641,1,1,1,1,1,1,Add More Duck Preparation The Duck Served Was Excellent,India,22,5912,TRUE,FALSE,FALSE,FALSE
+642,1,1,1,1,1,1,Very Nice Variety Hooke The Quality & Authencity Is Maintained Across,India,43,14606,FALSE,FALSE,FALSE,FALSE
+643,1,1,1,1,1,1,All Was Very Good.,India,43,12970,FALSE,FALSE,FALSE,TRUE
+644,1,1,1,1,1,1,Excellent,India,46,8941,TRUE,FALSE,FALSE,FALSE
+645,1,1,1,1,1,1,"Kyushu Sandeep We Loved Your Huge, Gulag Janus Yummy",India,26,5695,FALSE,FALSE,FALSE,FALSE
+646,2,2,1,2,1,2,The Food Was Not As Good As I Remembered Expected,India,23,1184,FALSE,FALSE,FALSE,TRUE
+647,1,1,1,1,1,1,Good Food Quality. Nice Ambience Keep It Up,India,5,19300,FALSE,FALSE,FALSE,TRUE
+648,1,1,1,1,1,1,Nice Ambience,India,31,14748,FALSE,FALSE,FALSE,FALSE
+649,1,1,1,1,1,1,Good Restaurant,India,21,17225,FALSE,FALSE,FALSE,TRUE
+650,1,1,2,1,1,1,Carry On With Your Tradition. Pleasured To Be Have,India,37,8355,FALSE,FALSE,FALSE,FALSE
+651,1,1,2,1,1,1,Excellent Menu Options,India,48,18066,TRUE,FALSE,FALSE,FALSE
+652,1,1,1,1,1,2,Ice Tea Could Be Better,India,14,17122,FALSE,FALSE,FALSE,FALSE
+653,1,1,1,1,1,1,Just A Few Gets Which We Would Do Well Wishes,India,29,9751,FALSE,FALSE,FALSE,FALSE
+654,1,1,1,1,1,1,Keep It Up But Quantity Should Be Increased,India,21,993,FALSE,FALSE,FALSE,FALSE
+655,1,1,1,1,1,2,Kindly Add Some More Indian Snacks,India,40,18490,FALSE,FALSE,FALSE,FALSE
+656,1,1,1,1,1,1,Besant Took Care Of Us Really Well Thank You,India,16,10769,FALSE,FALSE,FALSE,FALSE
+657,1,1,1,1,1,1,Out Standing,India,24,1560,FALSE,FALSE,FALSE,FALSE
+658,1,1,2,1,1,1,Fish Was Really Good,India,50,2356,FALSE,FALSE,FALSE,TRUE
+659,1,1,1,1,1,1,Good As Always,India,5,6924,FALSE,FALSE,FALSE,TRUE
+660,1,1,1,1,1,1,Should Allow More Cups With Coffee Pot,India,2,7262,FALSE,FALSE,FALSE,FALSE
+661,1,1,1,1,1,1,Good As Always,India,24,10096,FALSE,FALSE,FALSE,TRUE
+662,1,1,1,1,1,1,If Anyone Wants To Speak In Hindi Please Co-Operate Because Hindi Is Our National Language ,India,5,12312,FALSE,FALSE,FALSE,FALSE
+663,1,1,1,1,1,1,Loved The Place And Food Hope To Come Again Soon,India,44,4645,FALSE,FALSE,FALSE,FALSE
+664,1,1,1,1,1,1,Good Food,India,24,17335,FALSE,FALSE,FALSE,TRUE
+665,1,1,1,1,1,1,Oaf Food And Service Keep Up The Good Work,India,22,16796,FALSE,FALSE,FALSE,TRUE
+666,1,1,1,1,1,1, Excellent,India,27,6171,TRUE,FALSE,FALSE,FALSE
+667,1,1,1,1,1,1,Show Service,India,5,19288,FALSE,FALSE,FALSE,FALSE
+668,1,1,1,1,1,1,Perfect,India,44,6296,FALSE,FALSE,FALSE,FALSE
+669,1,2,2,1,2,2,Didn't Like The Capuchin,India,5,8032,FALSE,FALSE,FALSE,FALSE
+670,1,1,1,1,1,1,Best  ,India,34,1987,FALSE,FALSE,FALSE,FALSE
+671,1,1,1,1,1,1,I Am Coming To This Place After 12 Years And Food Still Excellent,India,1,15944,TRUE,FALSE,FALSE,FALSE
+672,3,1,1,1,1,1,Very Good Better Then Before,India,15,16158,FALSE,FALSE,FALSE,TRUE
+673,1,1,1,1,1,1,The Ambience Is Very Pleasant,India,23,456,FALSE,FALSE,FALSE,FALSE
+674,1,1,1,1,1,1,Good Experience,India,18,17228,FALSE,FALSE,FALSE,TRUE
+675,1,1,1,1,1,1,Beautiful Décor,India,36,2806,FALSE,FALSE,FALSE,FALSE
+676,2,2,1,2,2,2,Good Food,India,5,1722,FALSE,FALSE,FALSE,TRUE
+677,2,2,2,2,2,2,Good Ambience,India,5,2210,FALSE,FALSE,FALSE,TRUE
+678,1,1,1,1,1,1,Good Food,India,48,3722,FALSE,FALSE,FALSE,TRUE
+679,1,1,3,1,1,2,Ac Is Too Cold,India,19,12925,FALSE,FALSE,FALSE,FALSE
+680,1,1,1,1,1,1,Excellent Service,India,4,11865,TRUE,FALSE,FALSE,FALSE
+681,1,1,1,1,1,1,I Had A Nice Experience Here,India,19,15691,FALSE,FALSE,FALSE,FALSE
+682,1,1,1,1,1,2,Had A Great Meeting My Best Friend,India,33,7601,FALSE,FALSE,FALSE,FALSE
+683,1,1,1,1,1,1,You're Doing Fine,India,27,13718,FALSE,FALSE,FALSE,FALSE
+684,1,1,1,1,1,1,Excellent Food With Highly Prompt & Courteous Service,India,47,18657,TRUE,FALSE,FALSE,FALSE
+685,1,1,1,1,1,1,Satisfactory,India,16,2057,FALSE,FALSE,FALSE,FALSE
+686,1,1,1,1,1,2,Everything Was Awesome!!,India,15,4658,FALSE,FALSE,TRUE,FALSE
+687,1,1,1,1,1,1,Need A Kids Zone,India,7,16247,FALSE,FALSE,FALSE,FALSE
+688,1,2,2,2,2,2,Please Serve Toasted Bread,Japan,31,14127,FALSE,FALSE,FALSE,FALSE
+689,1,1,1,1,1,1,Ac Temp Was Not Optimum,India,50,17900,FALSE,FALSE,FALSE,FALSE
+690,1,1,1,1,1,2,"Great Experience, Every time!",India,3,7852,FALSE,FALSE,FALSE,FALSE
+691,1,1,1,1,1,1,I've Always Loved Much. Be As You Are Always,India,11,8857,FALSE,FALSE,FALSE,FALSE
+692,1,1,1,1,1,1,"Very Good, Excellent, Fine, Ok",India,16,10910,TRUE,FALSE,FALSE,TRUE
+693,1,1,1,1,1,1,Good Food,India,3,7605,FALSE,FALSE,FALSE,TRUE
+694,1,1,1,1,1,1,Awesome Food! Loved Biryani,India,11,17911,FALSE,FALSE,TRUE,FALSE
+695,1,1,1,1,1,1,Great Food,India,50,6686,FALSE,FALSE,FALSE,FALSE
+696,1,1,1,1,1,1,Nice Suggestions & Service By The Service. Will Definitely In Time,India,33,8041,FALSE,FALSE,FALSE,FALSE
+697,1,1,1,1,1,1,Good Food!,India,11,17942,FALSE,FALSE,FALSE,TRUE
+698,1,1,1,1,1,1,I Love The Food Here,India,48,17712,FALSE,FALSE,FALSE,FALSE
+699,1,1,2,1,1,1,Very Good Service. Will Visit Again & Sure!!,India,23,11542,FALSE,FALSE,FALSE,TRUE
+700,1,1,1,2,1,3,Put Up More Paintings,India,20,15580,FALSE,FALSE,FALSE,FALSE
+701,1,1,1,1,1,2,Could Add More Jain Dishes,India,2,18747,FALSE,FALSE,FALSE,FALSE
+702,2,2,2,2,1,1,Regular Here  But Quality Of Food Not As Before Not Bad Either But Just Not As Good As Before,India,16,8565,FALSE,FALSE,FALSE,TRUE
+703,1,1,1,1,1,1,Good Experience,India,46,12910,FALSE,FALSE,FALSE,TRUE
+704,1,1,1,1,1,1,Overall Good,India,30,7094,FALSE,FALSE,FALSE,TRUE
+705,1,1,1,1,1,1,Excellent,India,21,7878,TRUE,FALSE,FALSE,FALSE
+706,1,1,1,1,1,1,I Missed The Food For Last Many Years. Next Time I Will Visit With My Family & Friends,India,11,1259,FALSE,FALSE,FALSE,FALSE
+707,2,2,2,2,1,3,Hara Bara Kebab Was Undiscovered,India,35,5722,FALSE,FALSE,FALSE,FALSE
+708,1,1,2,1,1,1,Club Sandwiches Can Be Better Tasting,India,12,1242,FALSE,FALSE,FALSE,FALSE
+709,1,1,1,1,1,1,Carpet Is Dirty Can Be Changed,India,36,11742,FALSE,FALSE,FALSE,FALSE
+710,1,2,1,1,1,1,Salt Was Less In Spring Rolls,India,46,14035,FALSE,FALSE,FALSE,FALSE
+711,1,1,1,1,1,1,Always A Good Experience,India,33,1060,FALSE,FALSE,FALSE,TRUE
+712,1,1,1,1,1,1,We Enjoyed The Time!,India,46,12535,FALSE,FALSE,FALSE,FALSE
+713,2,2,3,2,1,2,Good Food,India,37,1908,FALSE,FALSE,FALSE,TRUE
+714,1,1,2,1,1,2,Keep It Up As Always,India,2,7477,FALSE,FALSE,FALSE,FALSE
+715,1,1,1,1,1,1,Chees Ball Was A Big Disappointment.,India,22,11486,FALSE,FALSE,FALSE,FALSE
+716,2,1,1,1,1,1,Try To Include More Variety Of Sandwiched In Veg Section,India,24,1827,FALSE,FALSE,FALSE,FALSE
+717,1,1,1,1,1,1,The Table Seemed Cramped,India,22,8453,FALSE,FALSE,FALSE,FALSE
+718,1,1,1,1,1,1,Good Food,India,25,19279,FALSE,FALSE,FALSE,TRUE
+719,1,2,3,1,3,1,Room Temp. Not Appropriate,India,2,3937,FALSE,FALSE,FALSE,FALSE
+720,1,1,1,1,1,1,Please Let Me Know How To Cook Your Curry It Was Absolutely Amazing,Japan,29,13545,FALSE,FALSE,FALSE,FALSE
+721,1,1,1,1,1,1,Thanks ,India,20,4943,FALSE,FALSE,FALSE,FALSE
+722,1,1,2,1,1,2,Good Food,India,10,1899,FALSE,FALSE,FALSE,TRUE
+723,1,1,1,1,1,1,Since 30 Year I Have Been York Customer,Japan,38,9663,FALSE,FALSE,FALSE,FALSE
+724,1,1,1,1,1,1,Everything Was Great,India,49,5542,FALSE,FALSE,FALSE,FALSE
+725,1,1,1,1,1,1,Keep Up The Good Work,India,12,4323,FALSE,FALSE,FALSE,TRUE
+726,1,1,2,1,2,1,No Thanks,India,7,2946,FALSE,FALSE,FALSE,FALSE
+727,1,1,1,1,1,1,Very Good ,India,37,4008,FALSE,FALSE,FALSE,TRUE
+728,1,1,2,1,1,1,Yes Just Put A Entertainment,India,46,16177,FALSE,FALSE,FALSE,FALSE
+729,1,1,1,1,1,1,Soothing Music,India,1,10613,FALSE,FALSE,FALSE,FALSE
+730,1,1,2,1,1,1,Excellent Food Served With Style,India,4,15372,TRUE,FALSE,FALSE,FALSE
+731,2,1,2,1,1,1,The Countieabal Dish Would Do Well With A Bit More Seaming,India,8,17406,FALSE,FALSE,FALSE,FALSE
+732,1,1,1,1,1,1,Very Nice Lunch,London,22,1300,FALSE,FALSE,FALSE,FALSE
+733,2,2,2,2,3,3,New Menus Different Music ,London,46,2855,FALSE,FALSE,FALSE,FALSE
+734,1,2,1,3,1,1,Chiken More Cooked,London,17,7800,FALSE,FALSE,FALSE,FALSE
+735,1,1,1,1,1,1,Very Good Food And Service,Lancaster Uk,4,8335,FALSE,FALSE,FALSE,TRUE
+736,1,1,1,1,1,1,Excellent Service,London,50,10974,TRUE,FALSE,FALSE,FALSE
+737,1,1,1,1,1,1,None-Excellent All Round,London,6,7104,TRUE,FALSE,FALSE,FALSE
+738,2,2,2,2,2,2,Chicken Slightly Over Cooked But Very Tasty All Round,London,49,9249,FALSE,FALSE,FALSE,FALSE
+739,1,1,1,1,1,1,Lovely Food We Come For Lunch 2 Days ,London,35,7326,FALSE,FALSE,FALSE,FALSE
